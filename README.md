@@ -24,8 +24,11 @@ Desenvolvimento web com foco em sistemas empresariais, APIs e integrações. Tra
 Meu trabalho inclui aplicações com código mantido em repositórios privados. A apresentação abaixo resume o escopo dos projetos, sem disponibilizar seus dados ou código-fonte.
 
 - **Mercadão:** MVP de classificados com anúncios, busca, favoritos, chat e moderação inicial. Interface React/TypeScript e APIs com Prisma/PostgreSQL.
-- **Sistema de manuais:** aplicação web com módulos de edição de manuais, documentos e impressão.
+- **Catálogo empresarial:** gestão de produtos, categorias e acessos, com React, TypeScript e Supabase/PostgreSQL. O escopo atual é catálogo sem vendas online.
+- **Sistema de manuais:** criação e edição de documentos técnicos, modelos, revisões e impressão, com React, TypeScript e banco SQL.
 - **Elion Play:** aplicação para serviços de streaming autorizados, com ativação de dispositivos, gestão de revendedores e integração de catálogo. JavaScript, Node.js e SQLite.
+
+- **Site institucional Elion:** apresentação de serviços, planos, blog e contato, com React, TypeScript e TanStack.
 
 ## Vamos trabalhar juntos
 
